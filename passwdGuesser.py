@@ -1,7 +1,7 @@
 # ==========- Password Guessing Game -========= #
-# 	   Created by Holly Stubbs (tgpethan)       #
+#      Created by Holly Stubbs (tgpethan)       #
 #     Licensed under MIT (Check repo root)      #
-#	https://github.com/tgpethan/college-stuff   #
+#   https://github.com/tgpethan/college-stuff   #
 # ============================================= #
 
 # Constants
